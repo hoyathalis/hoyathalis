@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Hoyath Ali S
+# Hi there! 👋 I'm Hoyath
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HoyathAli.HoyathAli)](https://github.com/HoyathAli)
+![](https://komarev.com/ghpvc/?username=HoyathAli&color=blue&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/HoyathAli)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hoyathali@gmail.com)
 
@@ -38,8 +38,6 @@ I'm a Machine Learning Engineer and Full Stack Developer with expertise in build
 - Recommendation Systems
 - Computer Vision
 - Anomaly Detection
-
-
 
 ## 📈 GitHub Stats
 
