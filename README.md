@@ -39,17 +39,7 @@ I'm a Machine Learning Engineer and Full Stack Developer with expertise in build
 - Computer Vision
 - Anomaly Detection
 
-## 🌟 Featured Projects
 
-### [Phi AI - Low-Code/No-Code Logic Assistant](https://chromewebstore.google.com/detail/phi-ai-for-lowno-code-peg/khohhongjlidnbinnkibbbhkmjhmhhoo)
-- Chrome extension with 150+ active users
-- Reduces logic-related errors by 30%
-- Built using RAG with Pinecone and OpenAI
-
-### [Parrot Transform - Neural Network](https://github.com/hoyathali/ParrotTransformation)
-- Implemented neural network for hardware acceleration
-- Achieved 93% accuracy in grayscale transformation
-- 30% boost in inference speed
 
 ## 📈 GitHub Stats
 
