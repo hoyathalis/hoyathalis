@@ -39,12 +39,6 @@ I'm a Machine Learning Engineer and Full Stack Developer with expertise in build
 - Computer Vision
 - Anomaly Detection
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoyathAli&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoyathAli&layout=compact&theme=radical)
-
 ## 🎓 Education
 - Master of Science in Computer Science
 - University of California, Riverside (GPA: 4.0)
