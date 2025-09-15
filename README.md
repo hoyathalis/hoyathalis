@@ -1,6 +1,3 @@
-Got it — let’s polish your GitHub profile README so it reflects the strongest parts of your resume and makes you stand out as a **Machine Learning Engineer**. Here’s an updated version for you:
-
----
 
 # Hi there! 👋 I'm Hoyath
 
