@@ -44,15 +44,6 @@ Machine Learning Engineer specializing in scalable ML systems, distributed train
 
 ---
 
-## 💡 Highlights
-
-* ⚡ **Scaled GPU Training**: Optimized **multi-node GB200 GPU workloads** with FSDP, Tensor Parallelism, and kernel fusion.
-* 📈 **Performance Profiling**: Performed **roofline analysis + CUDA kernel profiling** to maximize GPU utilization.
-* 📦 **Efficient Deployment**: Applied **QAT/PTQ quantization**, cutting inference latency by **40% on edge devices**.
-* 🔍 **Fraud Detection at Scale**: Built anomaly detection system at **Goldman Sachs**, saving millions annually.
-* 🛠️ **Enterprise Engineering**: Debugged and optimized core systems at **Pegasystems**, resolving 400+ issues across critical production environments.
-
----
 
 ## 🎓 Education
 
@@ -63,11 +54,12 @@ Machine Learning Engineer specializing in scalable ML systems, distributed train
 
 ## 📫 Connect with Me
 
-* 🌐 [LinkedIn](https://linkedin.com/in/HoyathAli)
-* 📧 [Email](mailto:hoyathali@gmail.com)
+- 🌐 [LinkedIn](https://linkedin.com/in/HoyathAli)  
+- 📝 [Medium](https://medium.com/@hoyath)  
+- 📧 [Email](mailto:hoyathali@gmail.com)
 
 ---
 
-⭐️ From [HoyathAli](https://github.com/HoyathAli)
+⭐️ From [HoyathAli](https://github.com/HoyathAlis)
 
 
