@@ -9,8 +9,7 @@
 
 ## 🚀 About Me
 
-I’m a **Machine Learning Engineer** with a strong background in **ML systems, large-scale training, and performance optimization**.
-Currently at **Axiado Corporation**, I work on scaling distributed training and deploying efficient inference pipelines on cutting-edge GPU hardware.
+Machine Learning Engineer specializing in scalable ML systems, distributed training, and performance optimization. Currently at Axiado Corporation, driving on-device and edge inference efficiency across diverse hardware accelerators.
 ---
 
 ## 🛠️ Tech Toolbox
