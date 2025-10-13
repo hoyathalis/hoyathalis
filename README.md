@@ -11,11 +11,6 @@
 
 I’m a **Machine Learning Engineer** with a strong background in **ML systems, large-scale training, and performance optimization**.
 Currently at **Axiado Corporation**, I work on scaling distributed training and deploying efficient inference pipelines on cutting-edge GPU hardware.
-
-Previously, I built and deployed ML-powered fraud detection at **Goldman Sachs**, saving millions in fraudulent write-offs, and optimized enterprise-scale platforms at **Pegasystems**.
-
-With a Master’s degree in **Computer Science (3.93 GPA)** from **UC Riverside**, I focus on bridging ML research with production-grade systems — from **distributed training (FSDP, DDP)** to **edge deployment (QAT/PTQ, TFLite, ONNX Runtime)**.
-
 ---
 
 ## 🛠️ Tech Toolbox
