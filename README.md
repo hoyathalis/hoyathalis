@@ -14,7 +14,7 @@ inference across diverse hardware accelerators.
 
 ## Education
 
-- **M.S. Computer Science** — University of California, Riverside (GPA 3.93)
+- **M.S. Computer Science** — University of California, Riverside 
 
 ## Writing
 
